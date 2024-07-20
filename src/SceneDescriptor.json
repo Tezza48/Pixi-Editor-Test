@@ -1,0 +1,20 @@
+[
+    {
+        "position": [0, 0],
+        "scripts": {
+            "Inspector": {},
+            "Editor": {}
+        }
+    },
+    {
+        "position": [30, 30],
+        "scripts": {
+            "EditorEntity": {},
+            "Box": {
+                "w": 30,
+                "h": 30
+            },
+            "Centred": {}
+        }
+    }
+]
